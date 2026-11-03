@@ -1,6 +1,0 @@
-{
-  "name": "SpineClippingOptimization.Editor",
-  "rootNamespace": "SpineClippingOptimization",
-  "includePlatforms": ["Editor"],
-  "autoReferenced": true
-}

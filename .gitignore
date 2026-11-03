@@ -1,6 +1,4 @@
 dist/
 LocalBuild/
-.spine-clipping-optimization/
-.spine-clipping-optimization-install.txt
 .DS_Store
 Thumbs.db
